@@ -1,7 +1,7 @@
 ### Hi there, I'm Anuj Pandey 👋
 
 ## I'm a Designer & Developer!
-- 🔭 I’m a Project Leader, Creative Director and Sr. Designer at [Stylus Technology](https://www.stylustechnepal.com/).
+- 😁 I’m a Project Leader, Creative Director and Sr. Designer at [Stylus Technology](https://www.stylustechnepal.com/).
 - 🌱 I’m currently learning everything. 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love 3D modelling, gaming and playing guitar.
@@ -19,24 +19,38 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />]()
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]()
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
+|
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
+
+
+### Tools:
+>Editors & IDE'S
+
+<code><img height="20" src="https://defkey.com/content/images/program/jetbrains-webstorm-2019-09-16_09-55-45-icon-resized.png"></code>
+<code><img height="20" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+>3D Modelling
+
+<code><img height="20" src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/Blender.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"></code>
+
+>Creative Tools
+
+<code><img height="20" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Photoshop.png"></code>
+<code><img height="20" src="https://cdn1.iconfinder.com/data/icons/adobe-3/512/Illustrator.png"></code>
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/3_Xd_Adobe_logo_logos-512.png"></code>
+<code><img height="20" src="https://e1.pngegg.com/pngimages/451/111/png-clipart-clay-os-6-a-macos-icon-balsamiq-mockups-smiley-logo-icon.png"></code>
+
+
 
 <br />
 <br />
