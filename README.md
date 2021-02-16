@@ -3,7 +3,7 @@
 ## I'm a Designer & Developer!
 - 😁 I’m a Project Leader, Creative Director and Sr. Designer at [Stylus Technology](https://www.stylustechnepal.com/).
 - 🌱 I’m currently learning everything. 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love 3D modelling, gaming and playing guitar.
 
 ### Connect with me:
