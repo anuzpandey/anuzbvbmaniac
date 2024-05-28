@@ -8,10 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Anuz Pandey" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.stylustechnepal.com/)
-[<img align="left" alt="Stylus Technology | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCGRv8mgH9Ux9GHKJqBpIpyA)
-[<img align="left" alt="anuzbvbmaniac | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/anuzbvbmaniac)
-[<img align="left" alt="anuz-pandey123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anuz-pandey123)
+[<img align="left" alt="Anuz Pandey" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.anuzpandey.com/)
 [<img align="left" alt="anuz.pandey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />](https://www.instagram.com/anuz.pandey/)
 [<img align="left" alt="anuzpandey | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/dribbble.svg" />](https://dribbble.com/anuzpandey)
 [<img align="left" alt="anuzpandey | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />](https://www.behance.net/anuzpandey)
