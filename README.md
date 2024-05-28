@@ -3,7 +3,7 @@
 ## I'm a Designer & Developer!
 - 😁 I’m a Front-end and Back-end Developer.
 - 🌱 I’m currently learning everything. 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects. Excercise more. Read more books.
+- 🥅 2024-2025 Goals: Contribute more to Open Source projects. Excercise more. Read more books.
 - ⚡ Fun fact: I love 3D modelling, gaming and playing guitar.
 
 ### Connect with me:
